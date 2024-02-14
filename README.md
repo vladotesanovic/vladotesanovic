@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-📫 How to reach me: **[TOB Contact Form](https://www.tob.ba/get-in-touch/)**
+📫 How to reach me: **[TOB Contact Form](https://www.tob.ba/contacts)**
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vladotesanovic)](https://github.com/anuraghazra/github-readme-stats)
 
